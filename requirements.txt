@@ -1,3 +1,4 @@
 pymongo[srv]
 python-dotenv
 h5py
+python-dateutil
