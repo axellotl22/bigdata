@@ -1,4 +1,9 @@
 pymongo[srv]
 python-dotenv
 h5py
+seaborn
+matplotlib
+pandas
+jupyter
 python-dateutil
+
