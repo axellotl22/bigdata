@@ -6,3 +6,4 @@ matplotlib
 pandas
 jupyter
 python-dateutil
+pyarrow
