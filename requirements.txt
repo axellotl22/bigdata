@@ -1,5 +1,5 @@
-pymongo[srv]
-python-dotenv
+pymongo[srv]~=4.6.1
+python-dotenv~=1.0.1
 h5py
 seaborn
 matplotlib
@@ -8,3 +8,4 @@ jupyter
 python-dateutil
 pyarrow
 scikit-learn
+numpy
