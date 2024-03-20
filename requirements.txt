@@ -10,3 +10,4 @@ pyarrow
 scikit-learn
 numpy
 scipy
+statsmodels
